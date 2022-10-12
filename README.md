@@ -22,3 +22,12 @@ In notes section as Are you greater than £50- then use £50 logic
   else if you are less than 20 but greaten that 10
   else if you are less that 10 but greatr than 5
   else if go to coin section. 
+
+### Extension 1
+- Write a programe that take and array of notes and coin values and returns the result of summing these amounts, in £00.00 format. 
+| input | output |
+| ----- | ------ |
+|£10,£10, 50p, 50p| £21.00|
+|£5,20p | £5.20 |
+- Do probably a for each loop of the array- and then say if number contains '£' then add before decimal, but if contains 'p' - number/100 then add to total. 
+-
